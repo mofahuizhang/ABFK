@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "预算流约束论（注意力预算的分配与流转）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/ABFK"
+keywords:
+  - 预算流
+  - 分配
+  - 积累
+  - 分流
+  - 赋价
+  - 流型
